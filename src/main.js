@@ -5,6 +5,8 @@ import App from './App';
 import router from './router';
 import store from '@/store';
 import md5 from 'js-md5';
+import 'lib-flexible/flexible.js';
+
 
 
 Vue.config.productionTip = false;
